@@ -1,3 +1,6 @@
 <resources>
     <string name="app_name">HomeWork1</string>
+    <string name="recipe_nuggets">Наггетсы и фри обжарить. Фри посолить</string>
+    <string name="recipe_dumplings">Пельмени кидать в кипящую воду, посолить.</string>
+
 </resources>
