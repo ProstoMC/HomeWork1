@@ -15,7 +15,7 @@
         android:layout_marginTop="40dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/naggets" />
+         />
 
     <Button
         android:id="@+id/buttonNuggets"
@@ -44,7 +44,7 @@
         android:layout_marginTop="48dp"
         app:layout_constraintStart_toStartOf="@+id/imageViewNuggets"
         app:layout_constraintTop_toBottomOf="@+id/imageViewNuggets"
-        app:srcCompat="@drawable/dumplings" />
+        />
 
     <Button
         android:id="@+id/buttonDumplings"
